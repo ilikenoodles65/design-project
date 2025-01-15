@@ -1,0 +1,172 @@
+*{
+   box-sizing: border-box;
+   margin: 0px;
+}
+header{
+    color: palevioletred;
+    border: solid black;
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+
+}              
+/*searchbar*/
+.search{
+    position: relative;
+    align-items: center;
+}
+.search-bar{
+    width: 200px;
+    height: 30px;
+    top: 90px;
+    
+    border: 3px solid;
+    border-color: #000000;
+}
+.dropdown{
+    font-size: 30px;
+    position: relative;
+    top: 25px;
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+body{
+    background-color: white;
+    color:black;
+    
+}
+.af1{
+    position: relative;
+    top: 300px;
+    width: 700px;   
+}
+.BEST{
+    font-size:30px ;
+    color: white;
+}
+
+.dropbox {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    width: 100%;
+}
+/* Table */
+.table tr td{
+    position: relative;
+    top: 500px;
+    height: 100px;
+    width: 500px;
+    text-align: center;
+}
+.image{
+    height: 200px;
+}
+.Black{
+    height: 200px;
+}
+.Nike{
+    height: 200px;
+}
+.row{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(216, 112, 147)
+}
+.Lorem{
+    position: relative;
+    top: 550px;
+    font-size: 40px; 
+    left: 800px;   
+    color: black;
+    width: 400px;
+}
+.title{
+    text-align: center;
+    top: 450px;
+    color:palevioletred;
+    position: relative;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.shoe{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: black
+}
+.searchbar{
+    top: 90px;
+}
+.Next{
+    border: solid palevioletred;
+    position: relative;
+    top: 550px;
+    left: 750px;
+    font-size: 30px;
+    background-color: palevioletred;
+    color: white;
+}
+.next{
+    border: solid palevioletred;
+    position: relative;
+    top: 550px;
+    left: 750px;
+    font-size: 30px;
+    background-color: palevioletred;
+    color: white;
+}
+.Previous{
+    border: solid palevioletred;
+    position: relative;
+    top: 515px;
+    left: 500px;
+    font-size: 30px;
+    background-color: palevioletred;
+    color: white;  
+}
+.previous{
+    border: solid palevioletred;
+    position: relative;
+    top: 550px;
+    left: 600px;
+    font-size: 30px;
+    background-color: palevioletred;
+    color: white; 
+}
+.Home{
+    /* This button bring me to the home page */
+    border: solid palevioletred;
+    position: relative;
+    top: 515px;
+    left: 500px;
+    font-size: 30px;
+    background-color: palevioletred;
+    color: white;
+}
+.lastpage{
+    border: solid palevioletred;
+    position: relative;
+    top: 515px;
+    left: 900px;
+    font-size: 30px;
+    background-color: palevioletred;
+    color: white; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
